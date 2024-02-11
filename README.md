@@ -1,9 +1,9 @@
 ![Quote](https://github.com/NadaNabil07/problem-solving/blob/main/images.jfif)
-# Self-Training Coding Solutions
+# Problem Solving
 
 ## Overview
 
-Welcome to my self-training coding solutions repository! This collection serves as a personal journey to enhance my problem-solving skills through various programming challenges. The primary goal is self-improvement, learning, and continuous growth in the world of coding.
+Welcome to my Problem Solving solutions repository! This collection serves as a personal journey to enhance my problem-solving skills through various programming challenges. The primary goal is self-improvement, learning, and continuous growth in the world of coding.
 
 ## Table of Contents
 
