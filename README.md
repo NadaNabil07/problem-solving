@@ -1,3 +1,4 @@
+![Quote](https://github.com/NadaNabil07/problem-solving/blob/main/images.jfif)
 # Self-Training Coding Solutions
 
 ## Overview
@@ -24,4 +25,4 @@ Feel free to use these solutions for learning and reference.
 
 To embark on this self-training journey, clone the repository to your local machine
 
-![Quote](https://github.com/NadaNabil07/problem-solving/blob/main/images.jfif)
+
