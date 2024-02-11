@@ -1,0 +1,17 @@
+# Merge Alternately
+
+This program defines a class `Solution` with a method `mergeAlternately` that takes two strings `word1` and `word2` and merges them alternately.
+
+## Usage
+
+1. Create an instance of the `Solution` class.
+2. Call the `mergeAlternately` method with two strings as arguments.
+
+Example:
+
+```cpp
+Solution sol;
+string result = sol.mergeAlternately("hello", "world");
+
+
+problem link : https://leetcode.com/problems/merge-strings-alternately/?envType=study-plan-v2&envId=leetcode-75
