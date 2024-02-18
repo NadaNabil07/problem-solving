@@ -1,0 +1,23 @@
+the trick in the code :
+auto it = find(vec.begin(), vec.end(), arr[i]);
+if (it != vec.end()) {
+    vec.erase(it);
+}
+
+auto it = find(vec.begin(), vec.end(), arr[i]);:
+
+find is an algorithm provided by the C++ Standard Library that searches for a value in a range defined by iterators.
+vec.begin() returns an iterator pointing to the beginning of the vector vec.
+vec.end() returns an iterator pointing to the end of the vector vec.
+arr[i] is the value that we are searching for in the range.
+The find function searches for the value arr[i] in the range [vec.begin(), vec.end()) and returns an iterator pointing to the first occurrence of the value if found, or vec.end() if the value is not found.
+The auto keyword is used to automatically deduce the type of the iterator returned by find.
+if (it != vec.end()) {:
+
+This condition checks if the iterator it is not equal to vec.end(). If the value arr[i] was found in the vector vec, it will point to the position where the value was found.
+vec.erase(it);:
+
+If the value arr[i] was found in the vector vec, this line erases the element at the position pointed to by the iterator it.
+This effectively removes the element from the vector.
+Example: Suppose we have a vector vec containing elements 'A', 'B', 'C', 'D', and 'E'. We want to remove the element 'C' from the vector using the provided code snippet.
+
