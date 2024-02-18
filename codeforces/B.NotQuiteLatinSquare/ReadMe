@@ -1,3 +1,4 @@
+problem link :https://codeforces.com/contest/1915/problem/B
 the trick in the code :
 auto it = find(vec.begin(), vec.end(), arr[i]);
 if (it != vec.end()) {
